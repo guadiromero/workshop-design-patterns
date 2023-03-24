@@ -12,19 +12,19 @@ Design Patterns can be classified as creational, structural or behavioral depend
             margin-right: auto;
             width: 30%">
 
-| **Creational**     | **Structural** | **Behavioral**          |
-|--------------------|----------------|-------------------------|
-| Builder            | [Adapter](https://github.com/guadiromero/workshop-design-patterns/tree/main/3_adapter)    | Chain of Responsibility |
+| **Creational**                                                                                | **Structural** | **Behavioral**          |
+|-----------------------------------------------------------------------------------------------|----------------|-------------------------|
+| Builder                                                                                       | [Adapter](https://github.com/guadiromero/workshop-design-patterns/tree/main/3_adapter)    | Chain of Responsibility |
 | [Factory Method](https://github.com/guadiromero/workshop-design-patterns/tree/main/1_factory) | Bridge         | Command                 |
-| Abstract Factory   | Composite      | Interpreter             |
-| Prototype          | Decorator      | Iterator                |
-| Singleton          | Façade         | Mediator                |
-|                    | Flyweight      | Memento                 |
-|                    | Proxy          | Observer                |
-|                    |                | State                   |
-|                    |                | [Strategy](https://github.com/guadiromero/workshop-design-patterns/tree/main/2_strategy)            |
-|                    |                | Template Method         |
-|                    |                | Visitor                 |
+| [Abstract Factory](https://github.com/guadiromero/workshop-design-patterns/tree/main/1_factory)                                                                            | Composite      | Interpreter             |
+| Prototype                                                                                     | Decorator      | Iterator                |
+| Singleton                                                                                     | Façade         | Mediator                |
+|                                                                                               | Flyweight      | Memento                 |
+|                                                                                               | Proxy          | Observer                |
+|                                                                                               |                | State                   |
+|                                                                                               |                | [Strategy](https://github.com/guadiromero/workshop-design-patterns/tree/main/2_strategy)            |
+|                                                                                               |                | Template Method         |
+|                                                                                               |                | Visitor                 |
 
 </div>
 
