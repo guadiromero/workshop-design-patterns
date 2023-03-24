@@ -8,19 +8,25 @@ Design Patterns are reusable solutions to commonly occurring problems in softwar
 
 Design Patterns can be classified as creational, structural or behavioral depending on their purpose. **Creational** patterns concern the process of object creation. **Structural** patterns deal with the composition of classes or objects. **Behavioral** patterns characterize the ways in which classes or objects interact and distribute responsibility.
 
-| **Creational**   | **Structural** | **Behavioral**          |
-|------------------|----------------|-------------------------|
-| Builder          | Adapter        | Chain of Responsibility |
-| Factory Method   | Bridge         | Command                 |
-| Abstract Factory | Composite      | Interpreter             |
-| Prototype        | Decorator      | Iterator                |
-| Singleton        | Façade         | Mediator                |
-|                  | Flyweight      | Memento                 |
-|                  | Proxy          | Observer                |
-|                  |                | State                   |
-|                  |                | Strategy                |
-|                  |                | Template Method         |
-|                  |                | Visitor                 |
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+
+| **Creational**     | **Structural** | **Behavioral**          |
+|--------------------|----------------|-------------------------|
+| Builder            | [Adapter](https://github.com/guadiromero/workshop-design-patterns/tree/main/3_adapter)    | Chain of Responsibility |
+| [Factory Method](https://github.com/guadiromero/workshop-design-patterns/tree/main/1_factory) | Bridge         | Command                 |
+| Abstract Factory   | Composite      | Interpreter             |
+| Prototype          | Decorator      | Iterator                |
+| Singleton          | Façade         | Mediator                |
+|                    | Flyweight      | Memento                 |
+|                    | Proxy          | Observer                |
+|                    |                | State                   |
+|                    |                | [Strategy](https://github.com/guadiromero/workshop-design-patterns/tree/main/2_strategy)            |
+|                    |                | Template Method         |
+|                    |                | Visitor                 |
+
+</div>
 
 ## Solid Principles
 
