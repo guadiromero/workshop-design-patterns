@@ -1,5 +1,5 @@
 """
-An implementation using the Template Method pattern.
+An implementation using the Template Method.
 """
 from abc import ABC, abstractmethod
 
